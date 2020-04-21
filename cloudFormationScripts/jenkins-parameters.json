@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey":"ProjectName",
+    "ParameterValue": "Udacity-Project-Three"
+  },
+  {
+    "ParameterKey":"StudentName",
+    "ParameterValue": "Prannay Hebbar"
+  },
+  {
+    "ParameterKey":"PemKeyName",
+    "ParameterValue": "udacity-jenkins"
+  }
+]

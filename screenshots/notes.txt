@@ -1,0 +1,10 @@
+Link to Repo
+https://github.com/Pran-Ker/static
+
+Master Branch 
+This branch contains the files that create the network and servers using cloud formations.  Please note I automatically install jenkins and tidy as part of the CF script.
+
+Pipeline Branch
+The branch contains the files for the Jenkins build and the file that get copied into the S3 bucket.
+Please note that that I use a temporary AWS cloud workspace that get deleted after 4hrs so it is unlikely that you will be able to see live URL's.
+If you need live URL I can easliy spin this up again.
